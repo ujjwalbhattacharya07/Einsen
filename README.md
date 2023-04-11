@@ -1,15 +1,5 @@
 ![GitHub Cards Preview](https://github.com/Spikeysanju/Einsen/blob/master/art/einsen_cover.png?raw=true)
 
-![Build (Android)](https://github.com/Spikeysanju/Einsen/workflows/Android%20CI/badge.svg)
-[![GitHub license](https://img.shields.io/badge/License-Apache2.0-blue.svg)](LICENSE)
-[![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
-
-![GitHub stars](https://img.shields.io/github/stars/SpikeySanju/Einsen?style=social)
-![GitHub stars](https://img.shields.io/github/forks/SpikeySanju/Einsen?style=social)
-![GitHub stars](https://img.shields.io/github/watchers/SpikeySanju/Einsen?style=social)
-![GitHub follow](https://img.shields.io/github/followers/SpikeySanju?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/sanjay_spikey?label=Twitter&style=social)
-
 # 🎯 Einsen
 
  Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture.<br />
@@ -19,14 +9,6 @@
 [![Einsen](https://img.shields.io/badge/Einsen-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Einsen/releases/download/v1.0.0-alpha04/Einsen.apk)
 
 <br />
-
-## 🎨 UI Design
-
-***Click to View `Einsen` app Design from below 👇***
-
-[![Einsen Figma Design](https://img.shields.io/badge/Einsen-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/s0jhjixtXtOZmmIyHIN3Yy/Einsen?node-id=0%3A1)
-[![Einsen FigJam Design](https://img.shields.io/badge/Einsen-FIJAM-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/dbEZWjbmog9vYtsZx08fFM/Einsen)
-
 
 <br />
 
@@ -147,103 +129,3 @@ build this project.
 
 
 <br>
-
-## 💬 Frequently Asked Questions
-
-<details open> <summary> When was project Einsen started? </summary>  
-
-> 🎯 I started working on this idea 6 months before founding `Einsen app` (April 2021). The idea was exploring `mental models` + `productivity tips` to achieve your `goals`. I tried to test the idea with `Productivity` & `Time Management Trackers` . So I built `initial MVP`..
-
-</details>
-
-<details> <summary> Where can I find the research process for Einsen app?</summary>  
-
-> 📝 The biggest lesson I learned while designing this was that, I need to be `focused` & `working relentlessly` on the same project, to get the right flow of thought & complete it. Each `iteration` led to more `insights` on improving the design, `solving problems` for users. You can find the link for 📝 Design Process [here](https://www.figma.com/file/dbEZWjbmog9vYtsZx08fFM/Einsen) & 🎨 Figma Designs [here](https://www.figma.com/file/s0jhjixtXtOZmmIyHIN3Yy/Einsen?node-id=0%3A1)
-
-</details>
-
-<details> <summary> What is the future goals of this project Einsen? </summary>  
-
-> 🦄 For each week I will be implementing some new cool features for this application. Here are some of the amazing features you will come to expect from this platform :point_down:
-
-- `Due Date` for each task
-- `Recurring task`
-- `Pomodoro timer` for each task
-- `Task Template` as per user preference
-- `Calendar` based task management
-- `Project management`
-- `Statistics` for completed task
-- Introducing new `mental model templates` like Eisenhower
-
-</details>
-
-<br />
-
-## 🤝 Contribute
-
-If you want to contribute to this app, you're always welcome!
-See [Contributing Guidelines](https://github.com/Spikeysanju/Einsen/blob/master/CONTRIBUTING.md).
-
-<br>
-
-## 📩 Contact
-
-I know that first and foremost you are looking for a tool to solve your problems, but if you enjoy
-it that much, why not tell us? We would love to hear from you 😉
-
-DM me at 👇
-
-* Twitter: <a href="https://twitter.com/sanjay_spikey" target="_blank">@spikeysanju</a>
-* Email: spikeysanju98@gmail.com
-
-<br>
-
-## ❤️ Show your Support
-
-I love it when people use my tool and we’d love to make it even better. If you like this tool and
-want to support me in developing more free tools for you, I’d really appreciate a donation. Feel
-free to `buy me a cup of coffee` 😄. Thanks!
-
-
-<a href="https://www.buymeacoffee.com/Li0hsl4" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
-</a>
-
-<a href="https://www.patreon.com/spikeysanju" target="_blank">
-  <img alt="Patron Link" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"/>
-
-<a href="https://www.paypal.com/paypalme2/spikeysanju" target="_blank">
-  <img alt="PayPal Link" src="https://luunvacationgroup.com/wp-content/uploads/2019/08/paypal-donate-button-high-quality-png-1_orig.png" width="160"/>
-
-<br>
-
-<br>
-
-## 🤗 Credits
-
-- 🤓 Icons are from [tablericons.com](https://tablericons.com)
-
-<br>
-
-## 🔖 License
-
-```
-    Apache 2.0 License
-
-
-    Copyright 2021 Spikey sanju
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-```
-
