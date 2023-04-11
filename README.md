@@ -4,6 +4,8 @@
 # 🎯 Einsen
 
  Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks. Designed for students for effective task management in between their academics and co-curricular activities.
+ 
+ 
 ***Try latest Einsen app apk from below 👇***
 
 [![Einsen](https://img.shields.io/badge/Einsen-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Einsen/releases/download/v1.0.0-alpha04/Einsen.apk)
