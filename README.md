@@ -1,4 +1,4 @@
-![GitHub Cards Preview](https://github.com/Spikeysanju/Einsen/blob/master/art/einsen_cover.png?raw=true)
+
 ![einsen_cover](https://user-images.githubusercontent.com/118751588/231177810-e56d1e10-42f0-491d-bdce-8081b19af8d4.png)
 
 # 🎯 Einsen
