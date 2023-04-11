@@ -102,11 +102,8 @@ dev.spikeysanju.einsen
 <br />
 
 ## 🗼 Architecture
+![ANDROID ROOM DB DIAGRAM](https://user-images.githubusercontent.com/118751588/231180948-f6bb7171-8e79-41b7-8aa8-537b58e6b37f.jpg)
 
-This app uses [***MVVM (Model View
-View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
-
-![](https://github.com/TheCodeMonks/Notes-App/blob/master/screenshots/ANDROID%20ROOM%20DB%20DIAGRAM.jpg)
 
 ## 🧰 Build-tool
 
